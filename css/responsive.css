@@ -2,6 +2,12 @@
 #header .header-content {
 	width: 90%;
 }
+@media screen and (max-width: 1024px) {
+		#header.fixed .header-content {
+	    border-bottom: 0;
+	    padding: 38px 0;
+		}
+}
 .nav-toggle {
 	display: block;
 }
