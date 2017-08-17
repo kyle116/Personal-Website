@@ -311,7 +311,7 @@ ul li {
 }
 .banner-text h1 {
 	color: #fff;
-	font-family: "Source Sans Pro";
+	/*font-family: "Source Sans Pro";*/
 	font-size: 53px;
 	letter-spacing: 20px;
 	font-weight: 700;
@@ -341,7 +341,8 @@ ul li {
 }
 .intro h1 {
 	color: #000;
-	font: 27px "Source Sans Pro";
+	/*font: 27px "Source Sans Pro";*/
+	font-size: 27px;
 }
 .intro p {
 	color: #6c7279;
@@ -510,7 +511,7 @@ ul li {
 }
 .testimonials h1 {
 	color: #fff;
-	font: 23px "Source Sans Pro";
+	/*font: 23px "Source Sans Pro";*/
 	font-weight: 300;
 }
 .testimonials p {
@@ -592,7 +593,7 @@ ul li {
 .projects {
 	text-align: center;
 	margin: 40px 0;
-	font-family: "Source Sans Pro";
+	/*font-family: "Source Sans Pro";*/
 	letter-spacing: 10px;
   font-weight: 700;
 }
@@ -619,7 +620,7 @@ h4 {
 .contact-info {
 	text-align: center;
 	margin: 40px 0;
-	font-family: "Source Sans Pro";
+	/*font-family: "Source Sans Pro";*/
 	letter-spacing: 10px;
   font-weight: 700;
 	color: #bfbfbf;
