@@ -294,7 +294,7 @@ ul li {
 -------------------------------------------------------------------------------*/
 
 .banner {
-	background-image: url(../images/banner.jpg);
+	background-image: url(../images/banner1.jpg);
 	background-position: center top;
 	background-repeat: no-repeat;
 	-moz-background-size: cover;
@@ -623,4 +623,10 @@ h4 {
 	letter-spacing: 10px;
   font-weight: 700;
 	color: #bfbfbf;
+}
+
+.cinfo {
+	font-size: 18px;
+	line-height: 22.4px;
+	color: #6c7279;
 }
