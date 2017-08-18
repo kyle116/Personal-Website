@@ -1,2 +1,2 @@
 # Kyle Liu's Website
-https://kyle116.github.io/kyleliu/
+https://kyle116.github.io/
