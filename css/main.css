@@ -336,7 +336,7 @@ ul li {
 .intro blockquote {
 	border: 0;
 	margin: 0;
-	padding: 65px 15% 0;
+	padding: 5% 15% 0 15%;
 }
 .intro h1 {
 	color: #000;
