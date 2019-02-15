@@ -1,2 +1,2 @@
 # Kyle Liu's Website
-[Portfolio Link](http://kyleliu.info/)
+[Portfolio Link](http://kyle116.github.io/)
